@@ -1,8 +1,17 @@
+# Python environment
 .venv/
+
+# Python cache
 __pycache__/
 *.db
+
+
 .streamlit/secrets.toml
-*.pyc 
+*.pyc
+
+# Environment variables
 .env
+
+# Google OAuth Credentials and tokens
 credentials.json
 token.json
